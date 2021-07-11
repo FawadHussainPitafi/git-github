@@ -1,2 +1,2 @@
 # git-github
-first file
+first file tutorial
